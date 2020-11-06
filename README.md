@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+**The site is live: https://thomashoddinott.github.io/react-website-with-styled-components/**
+
+We use styled components in this React project to bring our Pizza Shop's website to life. 
+
+Build a React Website Using Styled Components - Responsive Ecommerce Restaurant Design: https://www.youtube.com/watch?v=GlROncAX4XI
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
